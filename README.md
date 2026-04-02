@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there! 👋 Меня зовут Анатолий
 
-<!--
-**Qweeckusha/Qweeckusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я студент 3-го курса по направлению **«Программная инженерия»** (2023–2027). 
 
-Here are some ideas to get you started:
+### Моя цель
+Cтать **ML Engineer** и я активно двигаюсь в этом направлении осваивая новые навыки и инструменты. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Придумываю собственные PET-проекты и идеи, чтобы изучить как новый кейс, так и новые инструменты для него.
+
+## Чем я занимаюсь сейчас
+- Углубляюсь в **Deep Learning** (LLM/NLP).
+- В планах разработать своих AI-агентов.
+- Разрабатываю PET-проекты для портфолио и самообразования.
+- Активно использую **Git**.
+
+
+## 🛠️ Мой стек
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" alt="Python"/> &nbsp; <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" height="30" alt="MySQL"/> &nbsp; <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="30" height="30" alt="Bash"/> |
+| **ML/DL** | TensorFlow, scikit-learn, Pandas, NumPy |
+| **Extra** | FastAPI, Docker, Git, Linux |
+| **Base** | Jupyter notebook |
+
+
+
+## 🔥 Избранные проекты (ML & AI)
+
+Здесь собраны мои ключевые работы, которыми я горжусь:
+
+### 1. [PROJECT07_russian-sentiment-analysis](Qweeckusha/PROJECT07_russian-sentiment-analysis)
+> *Краткое описание: Анализ тональности отзывов на датасете с Kaggle и построение выводов.*
+- **Задача:** Мультиклассовое ранжирование отзывов на классы Neutral/Positive/Negative.
+- **Основной stack:** TensorFlow, Jupyter notebook, scikit-learn.
+- **Результат:** Модель улучшена до относительно качественных результатов. F1-macro = 0.7
+
+### 2. [PROJECT01_credit-score-ml](Qweeckusha/PROJECT01_credit-score-ml)
+> *Краткое описание: например, "Анализ тональности отзывов клиентов".*
+- **Задача:** Модель для кредитного скоринга клиентов банка.
+- **Основной stack:** scikit-learn, XGBoost, pandas.
+- **Результат:** Реализован полный цикл от загрузки датасета до построения выводов и определения качественной модели.
+
+### 3. [PROJECT06_lenta-news-research](Qweeckusha/PROJECT06_lenta-news-research) === В разработке ===
+> *Краткое описание: например, "Рекомендательная система для фильмов".*
+- **Стек:** Scikit-learn, Collaborative Filtering, Streamlit (для демо).
+- **Результат:** Интерактивное демо, показывающее работу алгоритма. [Попробовать](ссылка)
+
+---
+
+## 💡 Почему мой бэкграунд в Web — это плюс?
+
+Ранее я активно разрабатывал Telegram-ботов и сайты на Django/FastAPI. 
+Для ML-инженера это критически важно, потому что:
+- Я умею не только обучить модель, но и **завернуть её в продакшн-сервис**.
+- Понимаю, как работать с API, базами данных и асинхронностью.
+- Могу самостоятельно сделать end-to-end решение: от сбора данных до пользовательского интерфейса.
+
+*(Старые проекты можно посмотреть в разделе [Repositories](https://github.com/Tovarishh?tab=repositories), но мой фокус сейчас — исключительно на AI/ML).*
+
+---
+
+## 📬 Контакты
+
+- 📧 Email: [твоя почта]
+- 💼 LinkedIn: [ссылка, если есть]
+- 🐦 Telegram: [ссылка на твой ТГ]
+
+---
+
+*P.S. Всегда открыт к обсуждению интересных ML-задач и стажировок!*
