@@ -12,6 +12,7 @@ Cтать **ML Engineer** и я активно двигаюсь в этом на
 - В планах разработать своих AI-агентов.
 - Разрабатываю PET-проекты для портфолио и самообразования.
 - Пишу научную работу PROJECT06
+- Улучшаю результаты PROJECT07 при помощи `sentences-transformer`
 
 
 ## 🛠️ Мой стек
@@ -19,7 +20,7 @@ Cтать **ML Engineer** и я активно двигаюсь в этом на
 | Category | Tools |
 | :--- | :--- |
 | **Languages** | <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" alt="Python"/> &nbsp; <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" height="30" alt="MySQL"/> &nbsp; <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="30" height="30" alt="Bash"/> |
-| **ML/DL** | TensorFlow, scikit-learn, Pandas, NumPy |
+| **ML/DL** | TensorFlow, PyTorch, scikit-learn, Pandas, NumPy |
 | **Extra** | FastAPI, Docker, Git, Linux |
 | **Base** | Jupyter notebook |
 
