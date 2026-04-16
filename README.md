@@ -2,10 +2,12 @@
 
 Я студент 3-го курса по направлению **«Программная инженерия»** (2023–2027). 
 
+
 ### Моя цель
 Cтать **ML Engineer** и я активно двигаюсь в этом направлении осваивая новые навыки и инструменты. 
 
 > Придумываю собственные PET-проекты и идеи, чтобы изучить как новый кейс, так и новые инструменты для него.
+
 
 ## Чем я занимаюсь сейчас
 - Углубляюсь в **Deep Learning** (LLM/NLP).
@@ -15,14 +17,33 @@ Cтать **ML Engineer** и я активно двигаюсь в этом на
 
 
 ## 🛠️ Мой стек
+### Языки программирования
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,postgres" />
+  </a>
+</p>
 
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://cdn.simpleicons.org/python/3776AB" width="30" height="30" alt="Python"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" height="30" alt="MySQL"/> <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="30" height="30" alt="Bash"/> |
-| **ML/DL** | TensorFlow, PyTorch, scikit-learn, Pandas, NumPy |
-| **Extra** | FastAPI, Docker, Git, Linux |
-| **Base** | Jupyter notebook |
+### ML-Libs
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  </a>
+</p>
 
+### Extra Libs, Tools & Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,fastapi" />
+  </a>
+</p>
+
+### Base IDE
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pycharm" />
+  </a>
+</p>
 
 
 ## 🔥 Избранные проекты (ML & AI)
