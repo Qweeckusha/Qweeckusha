@@ -41,7 +41,7 @@ Cтать **ML Engineer** и я активно двигаюсь в этом на
 ### Base IDE
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pycharm" />
+    <img src="https://skillicons.dev/icons?i=pycharm,jupyter" />
   </a>
 </p>
 
