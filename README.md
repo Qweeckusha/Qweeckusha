@@ -50,19 +50,19 @@ Cтать **ML Engineer** и я активно двигаюсь в этом на
 
 Здесь собраны мои ключевые работы, которыми я горжусь:
 
-### 1. [PROJECT07_russian-sentiment-analysis](Qweeckusha/PROJECT07_russian-sentiment-analysis)
+### 1. [PROJECT07_russian-sentiment-analysis](https://github.com/Qweeckusha/PROJECT07_russian-sentiment-analysis)
 > *Краткое описание: Анализ тональности отзывов на датасете с Kaggle и построение выводов.*
 - **Задача:** Мультиклассовое ранжирование отзывов на классы Neutral/Positive/Negative.
 - **Основной stack:** TensorFlow, Jupyter notebook, scikit-learn.
 - **Результат:** Модель улучшена до относительно качественных результатов. F1-macro = 0.7
 
-### 2. [PROJECT01_credit-score-ml](Qweeckusha/PROJECT01_credit-score-ml)
+### 2. [PROJECT01_credit-score-ml](https://github.com/Qweeckusha/PROJECT01_credit-score-ml)
 > *Краткое описание: Построение модели для кредитного скоринга с датасетом Kaggle.*
 - **Задача:** Модель для кредитного скоринга клиентов банка.
 - **Основной stack:** scikit-learn, XGBoost, pandas.
 - **Результат:** Реализован полный цикл от загрузки датасета до построения выводов и определения качественной модели.
 
-### 3. [PROJECT08_BrAIn](Qweeckusha/PROJECT08_BrAIn) === В разработке ===
+### 3. [PROJECT08_BrAIn](https://github.com/Qweeckusha/PROJECT08_BrAIn) === В разработке ===
 > *Краткое описание: RAG-система. Осбенность в том, что может как читать базу, так и записывать в неё.*
 - **Основной stack:** Python, sentence-transformers, LM Studio
 - **Результат:** Разработан MVP концепт
